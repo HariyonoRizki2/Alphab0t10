@@ -13,11 +13,14 @@ return `「 *PRICE LIST* 」
 
 ⬣ PRICE JADIBOT
 
-⬡ JADI BOT PERMANEN 25K
+⬡ JADI BOT PERMANEN 80K
 
 
 ⬣ MINAT? PM
-⬡ wa.me/62887435047326
+⬡ http://wa.me/628563225307
+⬡ http://wa.me/6285883789662
+⬡ https://twitter.com/HariyonoRizki
+⬡ https://instagram.com/hariyonorizki_
 
 
 NOTE : 
