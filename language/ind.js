@@ -1,23 +1,23 @@
 exports.wait = () => {
-	return `\`\`\`[ ! ] Proses kak...\`\`\``
+	return `\`\`\`[ ! ] Sedang Memproses...\`\`\``
 	}
 exports.success = () => {
 	return `\`\`\`[ ✓ ]\`\`\` Selesai...`
 	}
 exports.successBc = () => {
-	return `\`\`\`[ ✓ ]\`\`\` Sukses Broadcast`
+	return `\`\`\`[ ✓ ]\`\`\` Broadcast Berhasil!`
 	}
 exports.wrongFormat = () => {
-	return `\`\`\`[ x ]\`\`\` Format salah, coba liat lagi di menu`
+	return `\`\`\`[ x ]\`\`\` Format salah, coba periksa kembali di menu`
 	}
 exports.erorStik = () => {
-	return `\`\`\`[ x ]\`\`\` Itu bukan stiker`
+	return `\`\`\`[ x ]\`\`\` Stiker tidak terdeteksi`
 	}
 exports.tagStik = () => {
 	return `\`\`\`[ x ]\`\`\` Reply/tag stiker nya`
 	}
 exports.erorLink = () => {
-	return `\`\`\`[ x ]\`\`\` Linknya error`
+	return `\`\`\`[ x ]\`\`\` URL/LINK Bermasalah, Harap Periksa Kembali`
 	}
 exports.onlygc = () => {
 	return `\`\`\`[ x ]\`\`\` Khusus Group`
@@ -32,10 +32,10 @@ exports.onlygcAdmin = () => {
 	return `\`\`\`[ x ]\`\`\` Khusus Admin grup`
 	}
 exports.cariCecan = () => {
-	return `\`\`\`[ ! ]\`\`\` Mencari cecan`
+	return `\`\`\`[ ! ]\`\`\` Sedang Mencari cecan`
 	}
 exports.cariCogan = () => {
-	return `\`\`\`[ ! ]\`\`\` Mencari cogan`
+	return `\`\`\`[ ! ]\`\`\` Sedang Mencari cogan`
 	}
 exports.pesanBot = () => {
 	return `\`\`\`[ x ]\`\`\` Reply pesan botnya`
@@ -65,10 +65,10 @@ exports.noteks = (prefix, command) => {
 	return `\`\`\`[ x ]\`\`\` Example ${prefix + command} zeeone`
 	}
 exports.botNotAdm = () => {
-	return `Jadikan bot sebagai admin u/ menggunakan perintah ini`
+	return `Jadikan bot sebagai admin untuk menggunakan perintah ini`
 	}
 exports.tryAgain = () => {
-	return `\`\`\`[ x ]\`\`\` Yah gagal, coba ulangi ^_^`
+	return `\`\`\`[ x ]\`\`\` Perintah Gagal, Mohon Coba lagi`
 	}
 exports.anlinOn = () => {
 	return `\`\`\`[ ✓ ]\`\`\` Antilink Di Aktifkan`
@@ -86,7 +86,7 @@ exports.enNum = () => {
  return `\`\`\`[ x ]\`\`\`Masukan Angka Dengan Benar`
  }
 exports.adminGc = () => {
- return `Karena lu adalah admin jadi bot gk bakal kick lu`
+ return `Anda adalah Admin Grub, Bot tidaj dapat mengeluarkan Anda!`
  }
  exports.izinDt = () => {
  return `Izin diterima`
@@ -113,7 +113,7 @@ exports.gcClose = (command) => {
 	return `\`\`\`[ ✓ ]\`\`\` ${command} Berhasil Menutup grup`
 	}
 exports.nsfwmo= () => {
-	return `Fitur nsfw belum di aktifkan, hubungi owner bot u/ mengaktifkan`
+	return `Fitur NSFW belum di aktifkan, hubungi owner bot untuk mengaktifkan`
 	}
 exports.erorCode = () => {
  return `Kode yang anda masukkan salah silahkan cek kembali\nhttps://api-alphabot.herokuapp.com/api/verification`
@@ -139,10 +139,10 @@ exports.caraVot = () => {
     }
 //ttt
 exports.noSesiTtt = () =>{
-	return`Tidak ada sesi tictactoe di grup ini`
+	return`Tidak ada sesi Tic-Tac-Toe di grup ini`
 	}
 exports.suksesDelTtt = () =>{
-	return`Berhasil menghapus sesi tictactoe di grup ini`
+	return`Berhasil menghapus sesi Tic-Tac-Toe di grup ini`
 	}
 //on & off
 exports.ownerOff = () =>{
