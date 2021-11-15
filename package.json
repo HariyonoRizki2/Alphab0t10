@@ -1,7 +1,7 @@
 {
-  "name": "Alphabot",
-  "version": "10.0.1",
-  "description": "WhatsApp bot",
+  "name": "WHATSAPP ALPHABOT",
+  "version": "0.0.1",
+  "description": "WhatsApp Bot by HariyonoRizki2",
   "zeeone": "zeeone.js",
   "directories": {
     "lib": "lib"
@@ -49,12 +49,12 @@
     "url": "git+https://github.com/zeeoneofc"
   },
   "keywords": [
-    "botwea"
+    "botwa"
   ],
-  "author": "ZEEONE",
+  "author": "HariyonoRizki2",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zeeoneofc"
+    "url": "https://github.com/HariyonoRizki2"
   },
-  "homepage": "https://github.com/zeeoneofc"
+  "homepage": "https://github.com/HariyonoRizki2"
 }
