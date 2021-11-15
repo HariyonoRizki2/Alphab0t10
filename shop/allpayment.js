@@ -1,25 +1,25 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
+return `PAYMENT BY HARIYONO RIZKI
 
 *さ BANK*
 1. BRI 
 	ㅁ 5074-01-003141-52-8
-		• R***A*DI
+		• Hariyono Rizki
 		
 *さ E-MONEY*
 1. GOPAY
-	ㅁ 0887 4350 47326
-		• ZE**** **C
+	ㅁ 0856 3225 307
+		• Hariyono Rizki
 2. OVO
-	ㅁ 0887 4350 47326
-		• EL*****TI
+	ㅁ 0856 3225 307
+		• Hariyono Rizki
 3. DANA
-	ㅁ 0887 4350 47326
-		• ZE**** **C
+	ㅁ 0856 3225 307
+		• Hariyono Rizki
 
 *さ PULSA*
-
-Tidak tersedia
+1. Indosat Ooredoo
+	ㅁ 0856 3225 307
 	
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
 `
