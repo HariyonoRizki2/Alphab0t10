@@ -1,12 +1,3 @@
-/*
-
-	あ IZIN SEBELUM RE UPLOAD
-	あ YANG BELUM PAHAM CAR RUN DI HEROKU TONTON AJA VIDEO SEBELUMNYA
-	あ FITUR JUALAN TELAH DI HAPUS
-	
-	あ JASA RUN HEROKU BISA PC wa.me/62887435047326 BIAR BOT NYA GAK TERLALU DELAY
-	
-*/   
 const
 	{
 		WAConnection: _WAConnection,
@@ -154,7 +145,7 @@ var _bulan = 'Rp 22.000,00'
 var _permanen = 'Rp 100.000,00'
 var __permanen = 'Rp 150.000,00'
 
-zeksApikey = 'Alphabott' //ganti pake apikey lu biar limitnya gk cepet abis 
+zeksApikey = 'fXP5rceZ3jNNIFRHrgHBYMPGB8s' //ganti pake apikey lu biar limitnya gk cepet abis 
 ApiZeks = 'https://api.zeks.me' // regis disini klo mau dapat apikeynya
 thumbnail = setting.thumb
 pp_bot = fs.readFileSync(`image/${thumbnail}`)
