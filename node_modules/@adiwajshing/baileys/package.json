@@ -1,6 +1,6 @@
 {
   "_from": "git+https://github.com/adiwajshing/Baileys.git",
-  "_id": "@adiwajshing/baileys@3.5.1",
+  "_id": "@adiwajshing/baileys@3.5.3",
   "_inBundle": false,
   "_integrity": "",
   "_location": "/@adiwajshing/baileys",
@@ -89,5 +89,5 @@
     "test": "mocha --timeout 240000 -r ts-node/register src/Tests/Tests.*.ts"
   },
   "types": "lib/index.d.ts",
-  "version": "3.5.1"
+  "version": "3.5.3"
 }
